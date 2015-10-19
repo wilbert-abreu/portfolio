@@ -1,0 +1,124 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+body {
+    background-attachment: fixed;
+}
+
+.row {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.top_bot {
+	background-image: url("../images/stardust.png");
+	padding: 15px 0px;
+}
+
+.label {
+	background-color:#666;
+	font-weight: bold;
+}
+
+h3 {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 0px;
+}
+
+h4 {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	text-align:right;
+	margin-right: 0px;
+}
+
+h5 {
+	margin-top:45px;
+	margin-bottom:10px;
+	font-weight: bold;
+}
+
+.break {
+	padding: 1px;
+	background-image: url("../images/stardust.png");
+}
+
+.break_end {
+	background-image: url("../images/stardust.png");
+}
+
+.pics {
+	padding: 1px;
+	border: 1px solid #666;
+}
+
+.mobile {
+	padding: 5px;
+}
+
+.upper_descr {
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
+
+p {
+	color: #444;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 15px;
+}
+
+body { 
+	background-image: url("../images/stardust.png");
+}
+
+.row { 
+	background-color: white; 
+}
+
+img { 
+	box-shadow: 0 0 15px #ccc; 
+} 
+
+img:hover { 
+	box-shadow: 0 0 15px #888; 
+} 
+
+@media only screen and (max-width: 64.063em) {
+
+	h3 {
+		margin-left: 45px;
+	}
+
+	blockquote {
+		margin-left: 35px;
+	}
+
+	h4 {
+		margin-right: 45px;
+	}
+
+	.upper_label {
+		margin-top: 60px;
+	}
+
+	.break {
+		padding: 3px;
+	}
+
+}
+
+#quote {
+	color: white;
+	font-size: 14px;
+}
+
+#quote_name {
+	color:#AAA;
+}
+
+blockquote {
+	padding-top: 0;
+}
