@@ -13,7 +13,7 @@ body {
 }
 
 .top_bot {
-	background-image: url("../images/stardust.png");
+	background-image: url("../images/retina_wood.png");
 	padding: 15px 0px;
 }
 
@@ -23,13 +23,13 @@ body {
 }
 
 h3 {
-	color: white;
+	color: black;
 	font-family: 'Raleway', sans-serif;
 	margin-left: 0px;
 }
 
 h4 {
-	color: white;
+	color: black;
 	font-family: 'Raleway', sans-serif;
 	text-align:right;
 	margin-right: 0px;
@@ -43,11 +43,11 @@ h5 {
 
 .break {
 	padding: 1px;
-	background-image: url("../images/stardust.png");
+	background-image: url("../images/retina_wood.png");
 }
 
 .break_end {
-	background-image: url("../images/stardust.png");
+	background-image: url("../images/retina_wood.png");
 }
 
 .pics {
@@ -71,7 +71,7 @@ p {
 }
 
 body { 
-	background-image: url("../images/stardust.png");
+	background-image: url("../images/retina_wood.png");
 }
 
 .row { 
@@ -111,12 +111,12 @@ img:hover {
 }
 
 #quote {
-	color: white;
+	color: black;
 	font-size: 14px;
 }
 
 #quote_name {
-	color:#AAA;
+	color:#6c6c6c;
 }
 
 blockquote {
