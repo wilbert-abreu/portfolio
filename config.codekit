@@ -60,6 +60,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/hired-clone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 978465,
+		"inputAbbreviatedPath": "\/images\/hired-clone.png",
+		"outputAbbreviatedPath": "\/images\/hired-clone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/inspiring-quote-generator.png": {
 		"fileType": 32768,
 		"ignore": 0,
