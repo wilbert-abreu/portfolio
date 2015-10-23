@@ -93,6 +93,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/nytimes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276617,
+		"inputAbbreviatedPath": "\/images\/nytimes.png",
+		"outputAbbreviatedPath": "\/images\/nytimes.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/reportingtool.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -111,6 +122,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/retina_wood.png",
 		"outputAbbreviatedPath": "\/images\/retina_wood.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shopping-list-app.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119118,
+		"inputAbbreviatedPath": "\/images\/shopping-list-app.png",
+		"outputAbbreviatedPath": "\/images\/shopping-list-app.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -70,6 +70,12 @@ p {
 	font-size: 15px;
 }
 
+li {
+	color: #444;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 15px;
+}
+
 body { 
 	background-image: url("../images/retina_wood.png");
 }
